@@ -16,7 +16,7 @@ Having access to accurate and up-to-date property information is essential for m
 RPA robot provides a solution to efficiently collect and manage property data from internet, and can save you significant time and effort by automating the repetitive and time-consuming 
 data search and entry process.
 
-This repository includes solutions created using both **Classic Design** and **Modern Design** in UiPath Studio. _You can check out the **automation demo video** by clicking on the badge below_:
+This repository includes solutions created using both **Classic Design** and **Modern Design** in UiPath Studio. _You can check out the **automation demo videos** by clicking on the badge below_:
 
 [![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data_(Classic_Design)-fa4616?style=for-the-badge)](https://clipchamp.com/watch/Kf5Cz3UjRw8)
 
