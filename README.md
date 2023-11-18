@@ -7,18 +7,18 @@
 
 <br/>
 
-This repository contains a robust and efficient solution built using [**UiPath Automation Platform**](https://www.uipath.com) that streamlines the process of gathering real estate data 
+This repository contains a robust and efficient solution built using the [**UiPath Automation Platform**](https://www.uipath.com) that streamlines the process of gathering real estate data 
 from [zillow.com](https://www.zillow.com/), a popular online real estate marketplace. The robot is designed to extract essential information about properties in a given location, including *price*, *number of bedrooms*, *number of bathrooms*, *area (sqft)*, 
-and *address*, for a maximum of 500 properties. The extracted data is then intelligently organized, filtered, and sorted according to user-defined criteria before being seamlessly integrated into an 
+and *address*, for a maximum of 500 properties. The extracted data is then intelligently organized, filtered, and sorted according to user-defined criteria, and seamlessly integrated into an 
 Excel file named **output.xlsx**. 
 
 Having access to accurate and up-to-date property information is essential for making timely, informed decisions on property investment and management. This UiPath 
 RPA robot provides a solution to efficiently collect and manage property data from internet, and can save you significant time and effort by automating the repetitive and time-consuming 
 data search and entry process.
 
-_You can check out the **automation demo video** by clicking on the badge below_:
+This repository includes solutions created using both **Classic Design** and **Modern Design** in UiPath Studio. _You can check out the **automation demo video** by clicking on the badge below_:
 
-[![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data-fa4616?style=for-the-badge)](https://clipchamp.com/watch/Kf5Cz3UjRw8)
+[![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data_(Classic_Design)-fa4616?style=for-the-badge)](https://clipchamp.com/watch/Kf5Cz3UjRw8)
 
 <br/>
 
