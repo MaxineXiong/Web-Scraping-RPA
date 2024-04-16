@@ -18,9 +18,9 @@ data search and entry process.
 
 This repository includes solutions created using both **Classic Design** and **Modern Design** in UiPath Studio. _You can check out the **automation demo videos** by clicking on the badge below_:
 
-[![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data_(Modern_Design)-fa4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlS2RqI5QUZizxXW0)
+[![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data_(Modern_Design)-fa4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlS25lNe_U91iujN3?e=mKj9X1)
 
-[![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data_(Classic_Design)-fa4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlSy544Iqw21Msz2f)
+[![View Demo - Web-Scraping-Real-Estate-Data](https://img.shields.io/badge/View_Demo-Web_Scraping_Real_Estate_Data_(Classic_Design)-fa4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlSzdaoWcyaUO0muC?e=tffKcL)
 
 
 <br/>
